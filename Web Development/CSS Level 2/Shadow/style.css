@@ -1,0 +1,12 @@
+h1
+{
+     text-shadow:5px 5px 3px red ;
+     text-shadow:5px 5px 3px red ,5px 5px 5px green;
+}
+.box
+{
+    width: 200px;
+    height: 150px;
+    background-color: aqua;
+    box-shadow: -3px -3px 5px yellow, 5px 5px 5px red;
+}
