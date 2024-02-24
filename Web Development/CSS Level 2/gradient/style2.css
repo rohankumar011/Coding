@@ -1,0 +1,17 @@
+.box
+{
+    border: 2px solid black;
+    height: 200px;
+    width: 150px;
+    background-image:linear-gradient(red,black);
+    background-image: linear-gradient(to right ,red,black);
+    background-image: linear-gradient(to bottom right ,red,black,blue);
+}
+.mydiv
+{
+    border: 2px solid black;
+    margin: 20px;
+    height: 200px;
+    width: 150px;
+    background-image: radial-gradient(circle, blue,green ,yellow);
+}
