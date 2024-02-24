@@ -1,0 +1,33 @@
+ /* # we can connect html and css by three method 
+1. enternal
+2. internal
+3. inline 
+note :- most priority is given to the inline , in external and internal priority is given according to place where we use it (jo neeche rahega wo hi use hoga)
+# there are many types of selector but we generally use three types of selector.
+1. element 
+2. id selector - for this we use #id,it is use for perticular tag
+3. class selector - for this we use .class , it is used for same changes to different places,we can use different style in same class.
+note :- most priority is given to the id after that class and after  that element . order matter when we use same selector   
+# we can use different types of background style .
+ such as :- background color , background width, background image etc.
+# we can use different types of border style..
+ such as : - border color, border width,border style ie. solid,dotted,dash.,border radius ,border height etc.
+# we can change the height and widhth of any div or body.
+ such as :- hight,width,max-height,max-width,min-height,mim-height
+#we can use padding to give the space between the border and the content.
+such as :- padding-top: 50px,padding-right:-54%,padding-left:-30px,padding-bottom:-50%
+        we can use it in same line such as :- padding: 30px 40px 50px 10px (clockwise ie :- top-right-bottom-left)
+#we can use margin to give space between two content or div.
+such as :- margin-top,margin-bottom ,margin-left;margin-right;we can also write it as margin:- top right bottom left.
+# we use differnt types of text editor.
+ such as :- text decoration:- overline,underline,text transforms:-uppercase , lowercase,capitalize;line hight:-30px,10px etc
+  text indent : 30px, we use this to give the place from where we want to start the first letter,
+  latter  spacing :-10px , we use this to give the space between the letter.
+  word spacing :- we use tjhis to give the space between the two words.
+  white spacing:-pre,nowrap(use to write in only one line) etc. we use this to write the text as it is in the code.
+  word - wrap:- use to break the words and shift into the next line.
+  text-shadow:- use to give shadow to the text;  
+  writing mode:-vertical_lr, use to write the text in vertical form.
+
+# link 
+ there the four types of link such as:- normal link , visited, hover(when we place the mouse pointer on the link),active.
